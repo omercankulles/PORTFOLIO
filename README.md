@@ -7,3 +7,4 @@ Kullanılan bazı extensionlar :
 Magnific Popup
 Owl Carousel
 Isotope
+asd
